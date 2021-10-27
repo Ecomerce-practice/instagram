@@ -1,2 +1,8 @@
  this file contains shell script files`
- this also updated in master branch
+<<<<<<< HEAD
+
+# this also updated in master branch
+=======
+ this file is updated in development branch
+
+>>>>>>> development
